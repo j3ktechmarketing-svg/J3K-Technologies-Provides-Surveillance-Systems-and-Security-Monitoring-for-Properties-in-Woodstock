@@ -94,7 +94,8 @@ One of the major advantages of modern systems is scalability. Businesses can exp
 
 Scalable systems also support multi-location businesses. They allow centralized control without complex infrastructure changes. This makes expansion more manageable and secure.
 
-- **Reduced Operational Risks and Downtime**  
+- **Reduced Operational Risks and Downtime** 
+
 Surveillance systems help identify operational risks before they escalate. This includes equipment misuse, safety hazards, and unauthorized access. Early detection reduces downtime and prevents costly disruptions. Businesses can maintain smoother operations with fewer interruptions. This also improves employee safety and workplace conditions. Over time, it contributes to higher efficiency and profitability. Risk reduction becomes a continuous operational advantage.
 
 ---
